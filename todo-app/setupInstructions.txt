@@ -1,0 +1,13 @@
+project initialization
+
+	npx create-react-app todo-app
+
+
+dependencies to be install (for every cloned repo)
+
+	npm install bootstrap react-router-dom axios
+
+
+launch front-end
+
+	npm start

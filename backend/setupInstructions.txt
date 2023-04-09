@@ -1,0 +1,12 @@
+initialize package.json
+
+	npm init -y
+
+
+install dependencies (when cloning this repo at new location, node module files too big)
+
+	npm install express body-parser cors mongoose
+	npm install -g nodemon
+
+
+`nodemon server` to run backend server
